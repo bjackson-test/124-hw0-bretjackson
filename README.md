@@ -33,6 +33,6 @@ You will often encounter an unexpected challenge or two when learning a new tech
 4. Write an appropriate message in the comment box.
 5. IMPORTANT: Select *"commit and push"* (not just commit) in the lower right.
 6. Select "push" to send your changes to GitHub.
-7. IntelliJ should say "push successful"
+7. IntelliJ should say "push successful".
 8. Visit your github site in your web browser to make sure the changes you made were pushed correctly.
 9. Proclaim victory!  You've finished your first homework assignment!
